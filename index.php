@@ -21,8 +21,17 @@ Date: 3-10-2018
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <?php
-        
-        ?>
+		<div id="mainBlok">
+			<div id="header">
+			 <h1>De horoscoop</h1>
+			</div>
+			<div id="content">
+			<?php
+			
+			?>
+			</div>
+			<div id="footer">
+			</div>
+		</div>
     </body>
 </html>

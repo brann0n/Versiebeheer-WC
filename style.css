@@ -1,10 +1,26 @@
-/*
-Brandon Abbenhuis
-brandon.abbenhuis@student.nhlstenden.com
-Date: 
-*/
-/* 
-    Created on : 3-okt-2018, 13:15:37
-    Author     : Brandon
-*/
+#mainBlok {
+	width: 1000px;
+	height: 1200px;
+	background-color: white;
+	margin: 0px auto;
+	border: 1px solid black;
+}
 
+#header {
+	width: 1000px;
+	height: 150px;
+	background-color: grey;
+	float: left;
+	
+}
+#content {
+	width: 1000px;
+	height: 900px;
+	float: left;
+}
+#footer {
+	width: 1000px;
+	height: 150px;
+	background-color: grey;
+	float: left;
+}
