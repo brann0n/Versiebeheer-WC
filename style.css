@@ -30,3 +30,9 @@ h1 {
 	background-color: grey;
 	float: left;
 }
+
+body {
+    background-image: url("Images/bg.jpg");
+    
+    
+}
