@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <!--
 Brandon Abbenhuis
-brandon.abbenhuis@student.nhlstenden.com
-Date: 
+Robbert Remie
+Simon Gharnagharyan
+Date: 3-10-2018
 -->
+<?php
+        function DateProcessor(){
+            
+        }
+        
+        function CallAPI(){
+            
+        }
+?>
 <html>
     <head>
         <meta charset="UTF-8">
