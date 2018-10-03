@@ -31,10 +31,11 @@ Date: 3-10-2018
                     <?php
 
                     ?>
-            <form action="welcome.php" method="post">
+            <form action="index.php" method="post">
                 Name: <input type="text" name="name"><br>
-                E-mail: <input type="text" name="email"><br>
-                <input type="submit">
+                Geboorte datum: <input type="date" name="birthDate"><br>
+                Type horoscoop: <select><option>Dag</option><option>Week</option></select><br>
+                <input text="Get horoscoop" type="submit">
             </form>
                     </div>
                     <div id="footer">
