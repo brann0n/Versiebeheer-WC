@@ -25,7 +25,7 @@ Date: 3-10-2018
         <?php
         
         ?>
-        <h1>PHP Horoscoop project</h1>
+        <h1>De horoscoop</h1>
         <div>Welcome to our horoscope website, please enter your date of birth and select the type of horoscope you would like to receive.</div>
         <div>
             <form action="welcome.php" method="post">
