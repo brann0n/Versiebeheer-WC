@@ -7,11 +7,12 @@ Date:
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>PHP Horoscoop project</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <?php
-        // put your code here
+        
         ?>
     </body>
 </html>
