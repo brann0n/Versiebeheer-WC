@@ -31,23 +31,15 @@ Date: 3-10-2018
 			<?php
 			
 			?>
-			</div>
-			<div id="footer">
-			</div>
-		</div>
-=======
-        <?php
-        
-        ?>
-        <h1>De horoscoop</h1>
-        <div>Welcome to our horoscope website, please enter your date of birth and select the type of horoscope you would like to receive.</div>
-        <div>
-            <form action="welcome.php" method="post">
+                                        <form action="welcome.php" method="post">
                 Name: <input type="text" name="name"><br>
                 E-mail: <input type="text" name="email"><br>
                 <input type="submit">
             </form>
-        </div>
->>>>>>> dea184254b11b0fc46a9524921cb247afbd6db51
+			</div>
+			<div id="footer">
+			</div>
+		</div>
+
     </body>
 </html>
