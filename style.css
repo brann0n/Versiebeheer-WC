@@ -1,3 +1,4 @@
+
 #mainBlok {
 	width: 1000px;
 	height: 1200px;
@@ -13,10 +14,15 @@
 	float: left;
 	
 }
+h1 {
+	padding: 20px;
+}
+
 #content {
 	width: 1000px;
-	height: 900px;
+	height: 860px;
 	float: left;
+	padding: 20px;
 }
 #footer {
 	width: 1000px;
