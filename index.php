@@ -31,12 +31,14 @@ Date: 3-10-2018
                     <?php
 
                     ?>
-                    <form action="index.php" method="post">
-                        Name: <input type="text" name="name"><br>
-                        Geboorte datum: <input type="date" name="birthDate"><br>
-                        Type horoscoop: <select><option>Dag</option><option>Week</option></select><br>
-                        <input value="Haal mijn horoscoop op" type="submit">
-                    </form>
+                     
+                        <form action="index.php" method="post">
+                            Name: <input type="text" name="name"><br>
+                            Geboorte datum: <input type="date" name="birthDate"><br>
+                            Type horoscoop: <select><option>Dag</option><option>Week</option></select><br>
+                            <input value="Haal mijn horoscoop op" type="submit">
+                        </form>
+                     
                     </div>
                     <div id="footer">
                     </div>
