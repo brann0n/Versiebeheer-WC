@@ -7,7 +7,8 @@ Date: 3-10-2018
 -->
 <?php
         function DateProcessor($stringWithDate){
-            return "";
+            if ($stringWithDate == "21-03") {
+            return "$stringWithDate Ram";
         }
         //Call this with your horoscope sign and the type (day ,week, year), it returns your current horoscope
         function CallAPI($horoscopeSign, $hType){
